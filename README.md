@@ -8,11 +8,10 @@ They are sorted by Ecmascript version.
 
 First clone the repo.
 
-`
+``
 git clone git@github.com:mattias800/diskajs-demo.git
-
 cd diskajs-demo
-`
+``
 
 Then install diska.
 
