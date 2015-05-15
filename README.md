@@ -1,10 +1,10 @@
-= Examples of diska
+# Examples of diska
 
 Here are a couple of examples on how to use Diska, a dependency injection framework in Javascript.
 
 They are sorted by Ecmascript version.
 
-== Usage ==
+## Usage
 
 First clone the repo.
 
