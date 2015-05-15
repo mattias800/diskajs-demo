@@ -10,6 +10,7 @@ First clone the repo.
 
 `
 git clone git@github.com:mattias800/diskajs-demo.git
+
 cd diskajs-demo
 `
 
