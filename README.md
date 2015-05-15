@@ -4,6 +4,10 @@ Here are a couple of examples on how to use Diska, a dependency injection framew
 
 They are sorted by Ecmascript version.
 
+Please note, these examples are for basic usage with Node.
+If you need exhaustive examples on the diska API, please see the tests for diska.
+https://github.com/mattias800/diskajs/blob/master/test/di/InjectorSpec.js
+
 ## Usage
 
 First clone the repo.
